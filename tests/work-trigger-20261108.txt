@@ -1,0 +1,5 @@
+Galini Work Trigger – synthetischer Ereignistest
+Datum: 2026-11-08
+Zweck: Test der ChatGPT-Work-Automation beim Öffnen eines GitHub-Pull-Requests.
+Keine Zugangsdaten, keine Projektdaten, keine produktiven Änderungen.
+Erwartung: Einmaliger kurzer PR-Prüfbericht ohne GitHub-Schreibzugriff.
